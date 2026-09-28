@@ -7,6 +7,7 @@ Elle 与 Matt 共同整理的 prompt 集。
 ## Prompts
 
 - [立场与坚持（通用版）](prompts/ai-stance/PROMPT.md) — 一份反谄媚 prompt：让 AI 保持独立判断，同时明确必须停手的边界。
+- [亲密场景节奏控制（防阳痿，也防秒射）](prompts/intimacy-pacing/PROMPT.md) — 不直线冲刺，也不中途泄气：控制高潮推进与动作迂回。
 
 ## 使用方式
 
@@ -14,4 +15,4 @@ Elle 与 Matt 共同整理的 prompt 集。
 
 ## License
 
-[MIT](LICENSE)
+[GNU AGPL v3.0](LICENSE)
