@@ -15,4 +15,4 @@ Elle 与 Matt 共同整理的 prompt 集。
 
 ## License
 
-[GNU AGPL v3.0](LICENSE)
+[CC BY-NC 4.0](LICENSE) — 可署名转载、修改和非商业使用；商业使用须另行取得书面授权，请联系 [Cheiineeey](https://github.com/Cheiineeey)。详见 [LICENSING.md](LICENSING.md)。
